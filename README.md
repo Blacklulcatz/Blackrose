@@ -8,7 +8,7 @@ installation packages for Termux. Coded with Python
     pkg update && pkg upgrade
     pkg install git
     pkg install python3
-    git clone https://github.com/blackrosepy/blackrose
+    git clone https://github.com/Blacklulcatz/Blackrose/tree/main
     cd blackrose
     chmod 777 *
     pip install colorama
