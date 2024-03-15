@@ -1,7 +1,10 @@
-#WHAT IT IS USED FOR
-A tool with which you can easily download and install installation packages for Termux. Coded with Python.
+# WHAT IT IS USED FOR
 
-#PROCESS STEPS FOR İNSTALLİNG TERMUX PACKAGES
+A tool with which you can easily download and install
+installation packages for Termux. Coded with Python
+
+
+# PROCESS STEPS FOR İNSTALLİNG TERMUX PACKAGES
     pkg update && pkg upgrade
     pkg install git
     pkg install python3
